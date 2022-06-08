@@ -2,6 +2,9 @@
 
 This is a markdown editor built with HTML/CSS + Javascript and Regular Expressions. Clone the repo, open `index.html` and past the below examples to see the conversion on the Preview side.
 
+## Demo
+[![markdown.gif](https://i.postimg.cc/9M4yTy6s/markdown.gif)](https://postimg.cc/62X7x45h)
+
 # Alternative h1? syntax
 
 #h1 ##h2
